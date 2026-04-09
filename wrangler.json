@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "seocuek",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "be6169d0-c05d-451a-8878-961f6af73716",
+			"database_name": "seocuek"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
